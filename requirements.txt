@@ -1,0 +1,10 @@
+flask
+flask_sqlalchemy
+flask_marshmallow
+marshmallow
+pymysql
+redis
+python-dotenv
+requests
+flasgger
+flask-migrate
